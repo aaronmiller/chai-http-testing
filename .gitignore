@@ -1,5 +1,4 @@
 node_modules
 npm-debug.log
 .hyperdev-assets
-.travis.yml
 README.md
